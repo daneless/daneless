@@ -2,13 +2,13 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on **Demon-Life.de**
+- 🔭 i'm currently works for demon-life.de
 
-- 💬 Ask me about **PHP & HTML**
+- 💬 ask me nothing please
 
-- 📫 How to reach me **Discord: dane#3709**
+- 📫 reach me via discord: dane#3709
 
-- ⚡ Fun fact **more caffeine == better code.**
+- ⌨️ self-teached webdeveloper
 
 
 <h3 align="left">Language and Programms:</h3>
