@@ -1,7 +1,4 @@
-<h1 align="center">Hola 👋, I'm dane</h1>
-<h3 align="center">i transform coffee into code.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeroday-z&label=Profile%20views&color=0e75b6&style=flat" alt="zeroday-z" /> </p>
+<h1 align="center">Hey 👋, I'm dane</h1>
 
 <h3 align="left">About me:</h3>
 
