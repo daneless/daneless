@@ -8,4 +8,4 @@
 
 - 📫 reach me via discord: dane#3709
 
-- ⌨️ self-teached webdeveloper
+- ⌨️ self-teached developer
