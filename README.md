@@ -2,7 +2,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 i'm currently works for demon-life.de
+- 🔭 i'm not currently working for any project
 
 - 💬 ask me nothing please
 
