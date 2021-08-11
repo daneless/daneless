@@ -12,4 +12,4 @@
 
 <h3 align="left">Current Project:</h3>
 
-- i'm working on my own roleplay game mode
+- i'm working on my own roleplay gamemode
