@@ -1,15 +1,9 @@
 <h1 align="center">Hey 👋, I'm dane</h1>
 <h3 align="center">If you can't open a Jar, download Java!</h3>
 
-<h3 align="left">About me:</h3>
-
 - 🔭 I’m currently working on **nothing**
 
-- 💬 Ask me about **Java, Lua, HTML and JavaScript**
-
-- 💻 I am currently learning C#, PHP and NodeJS
-
-- 📫 How to reach me **Discord: dane#5286**
+- 📫 (how to reach me) **discord: dane#5286**
 
 - ⚡ Funny fact: **!false, its funny cause it is true**
 
